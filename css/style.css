@@ -1259,9 +1259,6 @@ Media Queries Section
   .img-overlay .common-heading {
     font-size: 1.6rem;
   }
-  .section-portfolio .grid-three-column {
-    grid-template-columns: repeat(1, 1fr);
-}
 
   /* footer */
   .section-footer .f-about, .section-footer .f-address{
