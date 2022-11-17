@@ -1,0 +1,18 @@
+/* ===========================================
+Section Downloads
+======================================= */
+
+.section-downloads h3{
+    font-size: 2.4rem;
+  }
+  
+  .section-downloads .common-para{
+    margin-bottom: 1.6rem;
+  }
+
+@media (max-width: 503px){
+    /* section downloads */
+    .section-downloads .common-heading::before {
+      top: 114%
+    }
+  }

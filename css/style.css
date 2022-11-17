@@ -69,6 +69,10 @@ li {
   list-style: none;
 }
 
+
+
+
+
 /* ===========================================
 Header Section Start
 ======================================= */
@@ -955,6 +959,10 @@ Footer Section Start
 
 
 
+
+
+
+
 /* ===========================================
 Media Queries Section
 ======================================= */
@@ -1273,4 +1281,8 @@ Media Queries Section
   .section-freelancing {
     background-size: 450%;
   }
+
+
+  
 }
+
